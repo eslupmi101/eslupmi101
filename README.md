@@ -5,7 +5,7 @@
 💻 I am a Software Engineer from Yakutsk.  
 🐍 Proficient in Python Backend (FastAPI, Django).  
 
-<div id="socials" align="center">
+<div id="socials">
   <a href="https://t.me/aisen_andreev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
