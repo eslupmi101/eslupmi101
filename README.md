@@ -13,7 +13,7 @@
 
 ## 🛠️ Tech Stack:
 🌐
-<picture><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?&logo=go&logoColor=white"></picture>
+<picture><img alt="Go" src="https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=Python&logoColor=white"></picture>
 <picture><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"></picture>
 <picture><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white"></picture>
 <picture><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white"></picture>
