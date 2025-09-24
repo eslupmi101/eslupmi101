@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me:
 💻 I am a Software Engineer from Yakutsk.  
-🐍 Proficient in Python Backend (FastAPI, Django).  
+🐍 Proficient in Go and Python Backend.  
 
 <div id="socials">
   <a href="https://t.me/aisen_andreev">
